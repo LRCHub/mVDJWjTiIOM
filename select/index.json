@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Void",
   "base_artist": "DUSTCELL",
-  "createdAt": "2026-03-01T07:11:00.788781Z",
+  "createdAt": "2026-03-23T02:47:07.095259Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "DUSTCELL",
       "has_synced": false,
       "path": "select/pl_01_Void_DUSTCELL.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Void",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/localdb_01_Void_DUSTCELL.txt",
+      "repo_name": "mVDJWjTiIOM"
     }
   ]
 }
